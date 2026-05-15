@@ -41,11 +41,11 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| 🏠 [Smart-Home-Control-Ststem]([https://github.com/HamzaSaker001/Mechanical-Static-Analysis-SolidWorks](https://github.com/HamzaSaker001/Smart-Home-Control-System)) | AVR · C · Bluetooth · EEPROM | Remote + local control of lamps, AC, door with multi-user login |
+| 🏠 [Smart-Home-Control-Ststem](https://github.com/HamzaSaker001/Smart-Home-Control-System) | AVR · C · Bluetooth · EEPROM | Remote + local control of lamps, AC, door with multi-user login |
 | 🌡️ Electric Water Heater | AVR · C · LM35 · 7-Seg | Intelligent temperature controller with EEPROM-stored settings |
 | 🤟 Sign Language Glove | AVR · Flex Sensors · LCD | Translates 15+ hand signs to text in real time |
 | 🚗 Hand-Motion Car | AVR · Bluetooth · L293D | Gesture-controlled car via flex sensor glove |
-| 🤖 [Autonomous-Obstacle-Avoidance-Car]([https://github.com/HamzaSaker001/Mechanical-Static-Analysis-SolidWorks](https://github.com/HamzaSaker001/Autonomous-Obstacle-Avoidance-Car)) | AVR · Ultrasonic · Servo | Self-driving obstacle-avoiding robot |
+| 🤖 [Autonomous-Obstacle-Avoidance-Car](https://github.com/HamzaSaker001/Autonomous-Obstacle-Avoidance-Car) | AVR · Ultrasonic · Servo | Self-driving obstacle-avoiding robot |
 | 📈 PWM Drawer | AVR · Graphical LCD | Mini oscilloscope: waveform, frequency & duty cycle display |
 
 ---
