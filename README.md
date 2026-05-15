@@ -1,23 +1,65 @@
 # Hi, I'm Hamza Alaa Saker 👋
 
-### 🎓 Education & Certifications
-* **Mechatronics Engineering Student**
-* **Embedded Systems Diploma** | AMIT Learning (Grade: 99%)[cite: 2]
-* **Automation (PLC & HMI) Certified** | Insight Academy[cite: 3]
+🎓 Mechatronics Engineering Student @ Zagazig University (2nd Year)
+📍 Egypt | Open to Internships & Collaborations
 
-### 🛠️ Technical Toolbox
-* **Languages:** Embedded C, C++, Python[cite: 1, 2]
-* **Microcontrollers:** AVR (ATmega32), ARM Cortex-M (STM32), Arduino[cite: 1, 2]
-* **Protocols:** UART, I2C, SPI, CAN, LIN[cite: 1, 2]
-* **Operating Systems:** FreeRTOS[cite: 2]
-* **Software:** Proteus, SolidWorks, MATLAB/Simulink[cite: 1]
+---
 
-### 🚀 Featured Projects
-1. **Smart Home System:** Secure dual-mode control with EEPROM & UART[cite: 1].
-2. **Obstacle Avoidance Robot:** Autonomous navigation using Ultrasonic & Servo[cite: 1].
-3. **PWM Drawer:** Signal visualization on Graphical LCD[cite: 1].
-*(Add more from your list of 6 projects)*
+## 🛠️ Tech Stack
 
-### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/hamza-saker)
-* Email: hamzasaker001@gmail.com
+**Embedded Systems**
+- Language: C (Embedded)
+- MCU: AVR (ATmega32)
+- Protocols: UART · SPI · I2C · CAN · LIN
+- Standards: AUTOSAR
+- RTOS: FreeRTOS (basics)
+- Simulation: Proteus · MATLAB/Simulink
+
+**Industrial Automation**
+- PLC Programming (Ladder Logic)
+- HMI Configuration
+- Motor & Drive Systems
+- Classic Control Circuits (Star/Delta, Forward/Reverse)
+- Control Panel Design & Wiring
+
+**Mechanical Design & Simulation**
+- SolidWorks 3D Modeling & Assembly
+- FEA: Static & Dynamic Stress Analysis (Von Mises, Displacement, FOS)
+- Material Selection & Design Optimization
+
+---
+
+## 🚀 Projects
+
+### ⚙️ Mechanical Design
+
+| Project | Tools | Description |
+|---|---|---|
+| 🔩 [Pulley Bracket — Static Analysis](https://github.com/HamzaSaker001/Mechanical-Static-Analysis-SolidWorks) | SolidWorks Simulation | FEA of a pulley bracket assembly: Von Mises stress, displacement, FOS, mesh optimization & design iteration |
+
+### 💡 Embedded Systems
+
+| Project | Stack | Description |
+|---|---|---|
+| 🏠 Smart Home System | AVR · C · Bluetooth · EEPROM | Remote + local control of lamps, AC, door with multi-user login |
+| 🌡️ Electric Water Heater | AVR · C · LM35 · 7-Seg | Intelligent temperature controller with EEPROM-stored settings |
+| 🤟 Sign Language Glove | AVR · Flex Sensors · LCD | Translates 15+ hand signs to text in real time |
+| 🚗 Hand-Motion Car | AVR · Bluetooth · L293D | Gesture-controlled car via flex sensor glove |
+| 🤖 Autonomous Car | AVR · Ultrasonic · Servo | Self-driving obstacle-avoiding robot |
+| 📈 PWM Drawer | AVR · Graphical LCD | Mini oscilloscope: waveform, frequency & duty cycle display |
+
+---
+
+## 📜 Education & Certifications
+
+- 🎓 B.Sc. Mechatronics Engineering — Zagazig University (2023–2027)
+- 📘 Embedded Systems Diploma — AMIT Learning (C · AVR · RTOS · AUTOSAR · CAN/LIN)
+- ⚙️ PLC & HMI Course — Insight Academy
+- 🏭 Industrial Control Systems — Classic Control · PLC · Motor Drives · Panel Building
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Saker-blue?logo=linkedin)](https://linkedin.com/in/hamzasaker)
+[![GitHub](https://img.shields.io/badge/GitHub-HamzaSaker001-black?logo=github)](https://github.com/HamzaSaker001)
