@@ -61,5 +61,5 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Saker-blue?logo=linkedin)](www.linkedin.com/in/hamza-saker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Saker-blue?logo=linkedin)](https://www.linkedin.com/in/hamza-saker/)
 [![GitHub](https://img.shields.io/badge/GitHub-HamzaSaker001-black?logo=github)](https://github.com/HamzaSaker001)
