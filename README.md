@@ -31,6 +31,12 @@
 
 ## 🚀 Projects
 
+### 🏗️ MCAL — Microcontroller Abstraction Layer
+
+| Project | Tools | Description |
+|---|---|---|
+| 🔧 [ATmega32 MCAL Drivers](https://github.com/HamzaSaker001/ATmega32-MCAL) | Embedded C · AVR-GCC | AUTOSAR-inspired hardware driver layer for ATmega32 — 11 modules: DIO, ADC, UART, SPI, I2C, TMR0, PWM0, PWM1, EXTI, GI, WDT. Each driver follows Interface / Program / Register / Config file separation |
+
 ### ⚙️ Mechanical Design
 
 | Project | Tools | Description |
