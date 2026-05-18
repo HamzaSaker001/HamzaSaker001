@@ -52,7 +52,7 @@
 | 🤟 [Glove-For-Sign-Language](https://github.com/HamzaSaker001/Glove-For-Sign-Language) | AVR · Flex Sensors · LCD | Translates 15+ hand signs to text in real time |
 | 🚗 Hand-Motion Car | AVR · Bluetooth · L293D | Gesture-controlled car via flex sensor glove |
 | 🤖 [Autonomous-Obstacle-Avoidance-Car](https://github.com/HamzaSaker001/Autonomous-Obstacle-Avoidance-Car) | AVR · Ultrasonic · Servo | Self-driving obstacle-avoiding robot |
-| 📈 PWM Drawer | AVR · Graphical LCD | Mini oscilloscope: waveform, frequency & duty cycle display |
+| 📈 [PWM-Drawer](https://github.com/HamzaSaker001/PWM-Drawer-) | AVR · Graphical LCD | Mini oscilloscope: waveform, frequency & duty cycle display |
 
 ---
 
