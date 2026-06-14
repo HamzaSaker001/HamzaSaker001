@@ -48,7 +48,7 @@
 | Project | Stack | Description |
 |---|---|---|
 | 🏠 [Smart-Home-Control-Ststem](https://github.com/HamzaSaker001/Smart-Home-Control-System) | AVR · C · Bluetooth · EEPROM | Remote + local control of lamps, AC, door with multi-user login |
-| 🌡️ Electric Water Heater | AVR · C · LM35 · 7-Seg | Intelligent temperature controller with EEPROM-stored settings |
+| 🌡️ [Elictric-water-heater](https://github.com/HamzaSaker001/Elictric-water-heater) | AVR · C · LM35 · 7-Seg | Intelligent temperature controller with EEPROM-stored settings |
 | 🤟 [Glove-For-Sign-Language](https://github.com/HamzaSaker001/Glove-For-Sign-Language) | AVR · Flex Sensors · LCD | Translates 15+ hand signs to text in real time |
 | 🚗 Hand-Motion Car | AVR · Bluetooth · L293D | Gesture-controlled car via flex sensor glove |
 | 🤖 [Autonomous-Obstacle-Avoidance-Car](https://github.com/HamzaSaker001/Autonomous-Obstacle-Avoidance-Car) | AVR · Ultrasonic · Servo | Self-driving obstacle-avoiding robot |
